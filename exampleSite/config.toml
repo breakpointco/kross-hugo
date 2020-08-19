@@ -1,4 +1,4 @@
-baseURL = "http://breakpointco.netlify.app"
+baseURL = "https://breakpointco.netlify.app"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
