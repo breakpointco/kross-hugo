@@ -2,6 +2,7 @@
 author = "Nizar"
 date = 2020-08-30T17:00:00Z
 description = ""
+draft = true
 image = ""
 image_webp = ""
 title = "Test"
