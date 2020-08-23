@@ -5,8 +5,10 @@ work_process:
   item:
   - title: Research and Plan
     icon: images/icons/plan.png
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: Before any development work has even taken place, we set up a meeting
+      with the client. During this meeting, you meet the development team, and we
+      discuss the project’s requirements. The overall scope of the project is discussed
+      in detail, as to get a common understanding among everyone.
   - title: Design and Develop
     icon: images/icons/design.png
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
