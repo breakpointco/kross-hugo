@@ -68,10 +68,10 @@ service:
     content: We will deep dive into your business process and deliver the exact software
       you need
     highlighted: false
-  - title: UX Design
+  - title: Strengthen your team
     icon: ti-vector
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: We provide IT outsourcing services. Our services include engaging analytical,
+      testing, designing, and reinforcing development teams.
     highlighted: true
   - title: Interaction Design
     icon: ti-panel
