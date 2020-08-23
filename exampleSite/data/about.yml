@@ -1,41 +1,36 @@
-# work process
+---
 work_process:
-  enable : true
-  title : "Work Process"
-  item:
-  - title : "Research and Plan"
-    icon : "images/icons/plan.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    
-  - title : "Design and Develop"
-    icon : "images/icons/design.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    
-  - title : "Deliver"
-    icon : "images/icons/print.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
-
-# team
-team:
   enable: true
-  title : "My Team"
+  title: Work Process
+  item:
+  - title: Research and Plan
+    icon: images/icons/plan.png
+    content: Before any development work has even taken place, we set up a meeting
+      with the client. The overall scope of the project is discussed in detail, as
+      to get a common understanding among everyone.
+  - title: Design and Develop
+    icon: images/icons/design.png
+    content: Developers and designer strive to provide the best result possible for
+      any project. This is done through SOLID, Code Style, Version Control, and performed
+      by at least two developers & designers on the team.
+  - title: Deliver
+    icon: images/icons/print.png
+    content: |-
+      We take the time to listen, understand, and set expectations up front. What we deliver will match what was agreed upon before the project starts.
+      No surprises.
+team:
+  enable: false
+  title: My Team
   team_member:
-    - title : "Jack Schenziwe"
-      image : "images/team/member-1.png"
-      designation : "Project Manager"
-      
-    - title : "Julias Carlie"
-      image : "images/team/member-2.png"
-      designation : "Web Developer"
-      
-    - title : "John Doe"
-      image : "images/team/member-3.png"
-      designation : "Designer"
-
-
-# client logo slider
+  - title: Jack Schenziwe
+    image: images/team/member-1.png
+    designation: Project Manager
+  - title: Julias Carlie
+    image: images/team/member-2.png
+    designation: Web Developer
+  - title: John Doe
+    image: images/team/member-3.png
+    designation: Designer
 clients_logo_slider:
-  enable : true
-  title : "My Clients"
-  # clients logo comes from 'data/homepage.yml' file
+  enable: true
+  title: My Clients
