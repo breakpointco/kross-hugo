@@ -8,27 +8,20 @@ URL = "about"
 name = "About"
 weight = 1
 [[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 2
-[[menu.main]]
 URL = "portfolio"
 name = "Portfolio"
 weight = 3
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 4
 [params]
-address = "125/A, CA Commercial Area, California, USA"
-author = "Johnathan Smith"
+address = "Jl. Raya Condet No.88D RT03/04 Balekambang, Kramat Jati, Jakarta Indonesia"
+author = "BreakPoint"
 copyright = "© 2020 BreakPoint. All rights reserved"
-description = "This is meta description"
-email = "steve.fruits@email.com"
+description = ""
+email = "breakpointco@gmail.com"
 google_analytics_id = ""
 home = "Home"
 logo = ""
-phone = "+880 2544 658 256"
+phone = "+62 851 5715 2238"
+social = []
 theme_color = "#41228e"
 [params.contact]
 enable = true
@@ -58,15 +51,3 @@ link = "plugins/google-map/map.js"
 [params.preloader]
 enable = true
 preloader = "images/preloader.gif"
-[[params.social]]
-URL = "#"
-icon = "ti-facebook"
-[[params.social]]
-URL = "#"
-icon = "ti-instagram"
-[[params.social]]
-URL = "#"
-icon = "ti-dribbble"
-[[params.social]]
-URL = "#"
-icon = "ti-twitter-alt"
