@@ -16,8 +16,9 @@ work_process:
       by at least two developers & designers on the team.
   - title: Deliver
     icon: images/icons/print.png
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: |-
+      We take the time to listen, understand, and set expectations up front. What we deliver will match what was agreed upon before the project starts.
+      No surprises.
 team:
   enable: false
   title: My Team
