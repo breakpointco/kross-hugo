@@ -2,7 +2,7 @@ baseURL = "https://breakpointco.netlify.app"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross"
+title = "BreakPoint"
 [[menu.main]]
 URL = "about"
 name = "About"
@@ -22,7 +22,7 @@ weight = 4
 [params]
 address = "125/A, CA Commercial Area, California, USA"
 author = "Johnathan Smith"
-copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
+copyright = "© 2020 BreakPoint. All rights reserved"
 description = "This is meta description"
 email = "steve.fruits@email.com"
 google_analytics_id = ""
@@ -34,7 +34,7 @@ theme_color = "#41228e"
 enable = true
 form_action = "#"
 [params.map]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=&#038;types=(cities)&#038;libraries=places&#038;language=en"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
