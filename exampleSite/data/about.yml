@@ -6,9 +6,8 @@ work_process:
   - title: Research and Plan
     icon: images/icons/plan.png
     content: Before any development work has even taken place, we set up a meeting
-      with the client. During this meeting, you meet the development team, and we
-      discuss the project’s requirements. The overall scope of the project is discussed
-      in detail, as to get a common understanding among everyone.
+      with the client. The overall scope of the project is discussed in detail, as
+      to get a common understanding among everyone.
   - title: Design and Develop
     icon: images/icons/design.png
     content: Developers and designer strive to provide the best result possible for
