@@ -11,8 +11,9 @@ work_process:
       in detail, as to get a common understanding among everyone.
   - title: Design and Develop
     icon: images/icons/design.png
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: Developers and designer strive to provide the best result possible for
+      any project. This is done through SOLID, Code Style, Version Control, and performed
+      by at least two developers & designers on the team.
   - title: Deliver
     icon: images/icons/print.png
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
