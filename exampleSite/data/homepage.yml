@@ -79,7 +79,7 @@ service:
       to make sure your software works optimally.
     highlighted: false
 portfolio:
-  enable: false
+  enable: true
   title: Portfolio
   item_show: "5"
 testimonial:
