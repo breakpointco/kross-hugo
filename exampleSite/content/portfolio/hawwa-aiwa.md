@@ -1,7 +1,7 @@
 ---
 title: "Production Tracking System"
 date: 2019-09-16T12:14:34+06:00
-image: "images/portfolio/hawwa-aiwa.png"
+image: "images/portfolio/hawwa-aiwa.jpg"
 client: "Hijab Style Hawwa Aiwa "
 project_url : "http://hawwaaiwa.com/"
 categories: ["development"]
